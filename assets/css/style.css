@@ -1,0 +1,11 @@
+header {
+   max-width: 90%;
+   margin: auto;
+}
+
+#pokeStats {
+   height: 300px;
+}
+#pokeNumber {
+   width: 80px;
+}
